@@ -1,4 +1,4 @@
-package com.example.tunemage.servlet;
+package jp.gr.java_conf.tunemage.servlet;
 
 import javax.servlet.http.HttpServlet;
 import javax.servlet.annotation.WebServlet;
